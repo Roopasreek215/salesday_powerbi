@@ -1,4 +1,4 @@
-salesdata_powerbi Summary:
+Summary of salesdata of power BI :
 
 1.Total Sales Card
  -Shows overall sales value: 2.26M.
